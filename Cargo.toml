@@ -10,4 +10,4 @@ edition = "2021"
 members = ["generic-predicates-macro"]
 
 [dependencies]
-generic-predicates-macro = { path = "generic-predicates-macro" }
+generic-predicates-macro = { version = "0.1.0", path = "generic-predicates-macro" }

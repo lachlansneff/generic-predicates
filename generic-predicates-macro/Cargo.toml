@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/lachlansneff/generic-predicates"
+description = "A taste of what const generics could enable in the future"
 
 [lib]
 proc-macro = true

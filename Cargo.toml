@@ -1,0 +1,13 @@
+[package]
+name = "generic-predicates"
+version = "0.1.0"
+edition = "2021"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[workspace]
+members = ["generic-predicates-macro"]
+
+[dependencies]
+generic-predicates-macro = { path = "generic-predicates-macro" }
